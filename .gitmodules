@@ -1,0 +1,3 @@
+[submodule "papakitest/themes/enchanted-lowkey"]
+	path = papakitest/themes/enchanted-lowkey
+	url = https://github.com/nixentric/Lowkey-Hugo-Theme.git
