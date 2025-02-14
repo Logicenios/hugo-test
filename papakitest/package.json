@@ -7,6 +7,8 @@
   "description": "A Clean and Simple Hugo theme inspired by Adam Wathan's (https://adamwathan.me/) Website.",
   "main": "index.js",
   "scripts": {
+    "build": "hugo",
+    "start": "hugo server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
